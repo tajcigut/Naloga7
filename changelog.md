@@ -11,3 +11,8 @@
 ## v1.0.1 – posodobitve
 - Zaprt začetni PR za changelog (PR avtor = codeowner, zato ga ni bilo možno odobriti).
 - Končni changelog dodan ročno direktno v main vejo.
+
+## v1.0.2 - testiranja
+
+- Testirane so bile prve 3 funkcionalnosti
+- Dodan je bil kontakt.html
